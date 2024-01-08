@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages.
   
--    Interesterd in Mobile Application Development (Andriod Studio), UI/UX, Full Stack
+-    Interesterd in Mobile Application Development (Andriod Studio), UI/UX, Backend/Frontend Development 
 
 - 📫 How to reach me **sammanivishara@gmail.com**
 
