@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sammani Vishara</h1>
 <h3 align="center">Undergraduate at SLIIT, Malabe 🎓.</h3>
 
-<br>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bingers00&label=Profile%20views&color=0e75b6&style=flat" alt="bingers00" /> </p>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
