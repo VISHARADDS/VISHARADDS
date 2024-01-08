@@ -6,10 +6,10 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VISHARADDS&label=Profile%20views&color=0e75b6&style=flat" alt="VISHARADDS" /> </p>
+<p align="left"> <img width=150" src="https://komarev.com/ghpvc/?username=VISHARADDS&label=Profile%20views&color=0e75b6&style=flat" alt="VISHARADDS" /> </p>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="500" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages.
@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact :- Gaming, Food and Music are the reasons to live.
 
+- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1a9CVwiU5saxG-DJbs8AIp5L58JaQU7fq/view?usp=sharing)
+
+<br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +41,8 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
