@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sammanivishara@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Gaming, Food and Music are the reasons to live.
 
 <br>
 
