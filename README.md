@@ -9,7 +9,7 @@
 <p align="left"> <img width=150" src="https://komarev.com/ghpvc/?username=VISHARADDS&label=Profile%20views&color=0e75b6&style=flat" alt="VISHARADDS" /> </p>
 <br>
 
-<p><img align="right" width="400" src="https://github.com/VISHARADDS/VISHARADDS/blob/main/gif2.gif" alt="gif" /></p>
+<p><img align="right" width="450" src="https://github.com/VISHARADDS/VISHARADDS/blob/main/gif2.gif" alt="gif" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages.
@@ -80,9 +80,8 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
-
-<p align="center"><img height="400" width="600" src="https://github.com/VISHARADDS/VISHARADDS/blob/main/floating_loop.gif"></p>
 <br>
+
 
 
 [![](https://raw.githubusercontent.com/VISHARADDS/VISHARADDSreadme/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
