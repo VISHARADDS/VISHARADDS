@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+<p align="center"><img src="https://github.com/VISHARADDS/VISHARADDS/blob/main/gif%20banneer.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Sammani Vishara</h1>
 
