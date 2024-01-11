@@ -82,7 +82,6 @@
       height="40" /> </a> </p>
 <br>
 
-<p align="center"><img src="https://github.com/VISHARADDS/VISHARADDS/blob/main/gif%20banneer.gif"></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VISHARADDS&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VISHARADDS&theme=vision_friendly_dark)
