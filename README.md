@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Sammani+Vishara;I+Love+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developing;UI+UX;QA+Engineering;Leaderships;Loves+To+Build+Projects;A+Problem+Solver;">
+<img src="https://readme-typing-svg.herokuapp.com?color=0d8ece&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Sammani+Vishara;I+Love+Programming;An+Open+Source+Enthusiast;Full+Stack+Web+Developing;UI+/+UX;QA+Engineering;Leaderships;Loves+To+Build+Projects;A+Problem+Solver;">
 
 </p></h1>
 
