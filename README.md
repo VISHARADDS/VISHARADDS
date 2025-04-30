@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact :- Gaming, Food and Music are the reasons to live.
 
-- 💬 Ask me about **Javascript, MERN stack, Laravel Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
+- 💬 Ask me about **Javascript, MERN stack, Laravel PHP, Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
 
 - 📝 Do checkout my [Resume](https://drive.google.com/file/d/1s5zTW6ZuShPL3PB0HNPbjnZWXjBTngG1/view)
 
