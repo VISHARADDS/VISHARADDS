@@ -34,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sammani-vishara-724442279/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sammani-vishara-148a03389/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100077519685510&mibextid=ZbWKwL" target="blank"><img align="center"
