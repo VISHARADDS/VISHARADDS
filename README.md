@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Javascript, MERN stack, Laravel PHP, Java, Kotlin, CSS, C, C++, MYSQL, Data Structures and Algorithm**
 
-- 📝 Do checkout my [Resume](https://drive.google.com/drive/u/0/folders/1ePP7mA7_hQAy3dP4ezsS34PSIL6LIx0l)
+- 📝 Do checkout my [Resume](https://drive.google.com/file/d/1Lq1yhXZuUkqoM5yBLWQPQPNUrMJPTYcL/view)
 
 <br>
 <br>
