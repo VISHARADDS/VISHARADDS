@@ -29,7 +29,7 @@
 
 - 📝 Do checkout my [Resume](https://drive.google.com/file/d/1Lq1yhXZuUkqoM5yBLWQPQPNUrMJPTYcL/view)
   
-- 🌎 Portfolio (https://visharadds.github.io/Portfolio/)
+- 🌎 [Portfolio](https://visharadds.github.io/Portfolio/)
 
 <br>
 <br>
